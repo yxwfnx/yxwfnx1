@@ -18,7 +18,7 @@ ___
 
 <div align="center">
 
-![alt text](image.png)
+<img width="1414" height="1000" alt="zwe2" src="https://github.com/user-attachments/assets/89b9267c-3c9e-4b1b-8c4d-f77971b02f0c" />
 
 </div>
 
@@ -26,7 +26,7 @@ ___
 
 <div align="center">
 
-[Playlist.](https://soundcloud.com/yxwfnx/sets/yvx6h4lh4k58/s-nsLfgbyhS31?si=c7bb2fdd13a9412ebd3de75e0fb5ba04&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭.](https://soundcloud.com/yxwfnx/sets/yvx6h4lh4k58/s-nsLfgbyhS31?si=c7bb2fdd13a9412ebd3de75e0fb5ba04&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 </div>
 
