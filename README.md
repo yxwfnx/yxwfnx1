@@ -5,8 +5,6 @@ $${\color{#34374e} Idk? some testing }$$
 
 
 </p>
-  </div>
-<div align="center">
 $${\color{#121в48} 𝐇𝐢. }$$
 
 ____
