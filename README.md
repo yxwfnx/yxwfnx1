@@ -8,6 +8,9 @@
 
 <p align="center">
   ${\textsf{\color{#F5D9D7} Hi}}$
+  ${\textsf{\color{#F5D9D7}Usually offtab or afk/semi-afk so w2i.}}$
+  ${\textsf{\color{#F5D9D7}DNC or inspo. c+h. -18 IWC}}$
+  ${\textsf{\color{#F5D9D7}I 𝑑𝑜𝑛'𝑡 𝑤𝑎𝑛𝑡 𝑎𝑛𝑦 𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠, 𝑡ℎ𝑎𝑛𝑘𝑠}}$
  </p>
  
   <table>
