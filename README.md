@@ -7,11 +7,12 @@
       <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/3.1.png?raw=true" align="right">
 
 <p align="center">
+ </br>
    <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png"> ${\textsf{\color{#F5D9D7} Hi}}$  <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png"> </br>
-  ${\textsf{\color{#F5D9D7}Usually offtab or afk/semi-afk so w2i.}}$</br>
-  ${\textsf{\color{#F5D9D7}DNC or inspo. c+h. -18 IWC}}$</br>
-  ${\textsf{\color{#F5D9D7}I 𝑑𝑜𝑛'𝑡 𝑤𝑎𝑛𝑡 𝑎𝑛𝑦 𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠.}}$</br>
- </p>
+   ${\textsf{\color{#F5D9D7}Usually offtab or afk/semi-afk so w2i.}}$</br>
+   ${\textsf{\color{#F5D9D7}DNC or inspo. c+h. -18 IWC}}$</br>
+   ${\textsf{\color{#F5D9D7}I 𝑑𝑜𝑛'𝑡 𝑤𝑎𝑛𝑡 𝑎𝑛𝑦 𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠.}}$</br>
+</p>
  
   <table>
     <tr>
@@ -38,23 +39,31 @@
 
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <p align="center">
-  
   <img src="https://www.image2url.com/r2/default/gifs/1785769602834-51dc135c-f3cb-4cde-b966-ebc56446e7a6.gif" />
- 
 </p>
 
 <p align="center"> $${\color{indigo} Hi : \space q \space qq \space qqq \space 𝕗qqq \space qqqqqq. \space qqqqqqq \space qqq \space qqqqqqqq?}$$
