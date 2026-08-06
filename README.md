@@ -14,7 +14,7 @@
     <tr>
       <td>
          <p align="center">
-            ${\textsf{\color{#F5D9D7} ㅤㅤrentryㅤㅤstrawpageㅤㅤatabookㅤㅤ}}$
+            ${\textsf{\color{#F5D9D7} ㅤrentryㅤㅤstrawpageㅤㅤatabookㅤ}}$
          </p>
       </td>
     </tr>
