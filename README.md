@@ -19,7 +19,10 @@ $${\color{#7F5791}i}$$ $${\color{#76518A}dont}$$ $${\color{#734F8B}have}$$ $${\c
 </p>
 
 
+<p align="center">
 
+   <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/4.png?raw=true" align="center">
+</p>
 
 
 
