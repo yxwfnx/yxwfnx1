@@ -2,7 +2,16 @@
 <p align="center">
    <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/1.png?raw=true" />
 </p>
+<p align="center">
+<img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png">  $${\color{#CEAF92}- ༻✿༺ -}$$  $${\color{#853d7d}  sheノherㅤ}$$ $${\color{#853d7d} 8teen 𓈒ㅤ}$$ $${\color{#CEAF92}- ༻✿༺ -}$$  <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png">ㅤ</br>
+$${\color{#a5abb7}︵‿୨♡୧‿︵}$$ ㅤ</br>
 
+<p align="center">
+$${\color{#853d7d}◟}$$
+$${\color{#7F5791}c+h}$$ $${\color{#76518A}freely}$$ $${\color{#734F8B}unless;}$$ $${\color{#6D4A85}on}$$ $${\color{#694A86}dni}$$ $${\color{#a5abb7} ☆⌒(ゝ。∂) }$$ $${\color{#853d7d}✿}$$ ㅤ</br>
+$${\color{#a5abb7}✦}$$ ㅤ</br>
+$${\color{#7F5791}i}$$ $${\color{#76518A}dont}$$ $${\color{#734F8B}have}$$ $${\color{#6D4A85}a}$$ $${\color{#694A86}dni}$$ $${\color{#7F5791}if}$$ $${\color{#76518A}i}$$ $${\color{#734F8B}have}$$ $${\color{#6D4A85}a}$$ $${\color{#694A86}problem}$$ $${\color{#7F5791}with}$$ $${\color{#76518A}someone}$$ $${\color{#734F8B}i}$$ $${\color{#6D4A85}just}$$ $${\color{#694A86}block}$$ $${\color{#694A86}them.}$$ㅤ</br>
+</p>
 
 
 
