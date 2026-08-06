@@ -8,9 +8,9 @@
 
 <p align="center">
  </br>
-   <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png"> ${\textsf{\color{#F5D9D7} Hi}}$  <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png"> </br>
-   ${\textsf{\color{#F5D9D7}Usually offtab or afk/semi-afk so w2i.}}$</br>
-   ${\textsf{\color{#F5D9D7}DNC or inspo. c+h. -18 IWC}}$</br>
+   <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png"> ${\textsf{\color{#F5D9D7} ℍ𝕚.}}$  <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png"> </br>
+   ${\textsf{\color{#F5D9D7}𝑈𝑠𝑢𝑎𝑙𝑙𝑦 𝑜𝑓𝑓𝑡𝑎𝑏 𝑜𝑟 𝑎𝑓𝑘/𝑠𝑒𝑚𝑖-𝑎𝑓𝑘 𝑠𝑜 𝑤2𝑖.}}$</br>
+   ${\textsf{\color{#F5D9D7}𝐷𝑁𝐶 𝑜𝑟 𝑖𝑛𝑠𝑝𝑜. 𝑐+ℎ. -𝟙𝟠 𝐼𝑊𝐶}}$</br>
    ${\textsf{\color{#F5D9D7}I 𝑑𝑜𝑛'𝑡 𝑤𝑎𝑛𝑡 𝑎𝑛𝑦 𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠.}}$</br>
 </p>
  
@@ -18,7 +18,7 @@
     <tr>
       <td>
          <p align="center">
-            ${\textsf{\color{#F5D9D7} ㅤrentryㅤㅤstrawpageㅤㅤatabookㅤ}}$
+            ${\textsf{\color{#F5D9D7} ㅤ𝐫𝐞𝐧𝐭𝐫𝐲ㅤㅤ𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞ㅤㅤ𝐚𝐭𝐚𝐛𝐨𝐨𝐤ㅤ}}$
          </p>
       </td>
     </tr>
@@ -31,7 +31,7 @@
 <p align="center">
 <br>
 <br>
- M𝑢𝑙𝑡𝑖𝑓𝑎𝑛𝑑𝑜𝑚 𝑎𝑟𝑡𝑖𝑠𝑡. 𝑰 𝒋𝒖𝒔𝒕 𝒅𝒓𝒂𝒘 𝒂𝒏𝒚𝒕𝒉𝒊𝒏𝒈 𝑰 𝒍𝒊𝒌𝒆
+ M𝑢𝑙𝑡𝑖𝑓𝑎𝑛𝑑𝑜𝑚 𝑎𝑟𝑡𝑖𝑠𝑡. 𝐼 𝑗𝑢𝑠𝑡 𝑑𝑟𝑎𝑤 𝑎𝑛𝑦𝑡ℎ𝑖𝑛𝑔 𝐼 𝑙𝑖𝑘𝑒. 𝐼𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑒𝑑, 𝑚𝑜𝑟𝑒 𝑖𝑛𝑓𝑜 ℎ𝑒𝑟𝑒: 𝐜𝐨𝐦𝐢𝐧𝐠 𝐬𝐨𝐨𝐧...
 </p>
 <p align="center">
 
