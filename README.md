@@ -4,6 +4,7 @@
 <p align="center">
    <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/1.png?raw=true" />
 </p>
+<br>
    <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/2.png?raw=true" align="left">
     <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/3.png?raw=true" align="left">
       <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/3.1.png?raw=true" align="right">
@@ -18,10 +19,17 @@ $${\color{#a5abb7}✦}$$ ㅤ</br>
 $${\color{#7F5791}i}$$ $${\color{#76518A}dont}$$ $${\color{#734F8B}have}$$ $${\color{#6D4A85}a}$$ $${\color{#694A86}dni}$$ $${\color{#7F5791}if}$$ $${\color{#76518A}i}$$ $${\color{#734F8B}have}$$ $${\color{#6D4A85}a}$$ $${\color{#694A86}problem}$$ $${\color{#7F5791}with}$$ $${\color{#76518A}someone}$$ $${\color{#734F8B}i}$$ $${\color{#6D4A85}just}$$ $${\color{#694A86}block}$$ $${\color{#694A86}them.}$$ㅤ</br>
 </p>
 
-
+<p align="center">
+<br>
+<br>
+<br> 
+<br>
+ dsfdgtrfhyjukilop;uyjgfhdtsgdbhdgnjyfkgt
+</p>
 <p align="center">
 
-   <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/4.png?raw=true" align="center">
+  <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/4.png?raw=true" align="center">
+
 </p>
 
 
