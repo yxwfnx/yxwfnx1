@@ -13,7 +13,8 @@
    ${\textsf{\color{#3c5675}𝐷𝑁𝐶 𝑜𝑟 𝑖𝑛𝑠𝑝𝑜. 𝑐+ℎ. -𝟙𝟠 𝐼𝑊𝐶}}$</br>
    ${\textsf{\color{#3c5675}I 𝑑𝑜𝑛'𝑡 𝑤𝑎𝑛𝑡 𝑎𝑛𝑦 𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠.}}$</br>
 </p>
- 
+
+ <p align="center">
   <table>
     <tr>
       <td>
@@ -23,6 +24,7 @@
       </td>
     </tr>
   </table>
+</p>
 
 <p align="center">
      <img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=1a222d&style=italic" alt="yxwfnx" /> 
