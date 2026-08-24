@@ -27,14 +27,17 @@
 </p>
 
 <p align="center">
-     <img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=1a222d&style=italic" alt="yxwfnx" /> 
+      <details> <summary> <sub><a </sub>${\textsf{\color{#3c5675}  click me 4 more info }}$ ⠀⠀⠀⠀⸺[ ⠀ <img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=1a222d&style=italic" alt="yxwfnx"/> ⠀]⸺ </a> </summary> 
+         <sub> hi <br>
 </p>
+<br>
+</details>
 <p align="center">
 <br>
  ${\textsf{\color{#3c5675}M𝑢𝑙𝑡𝑖𝑓𝑎𝑛𝑑𝑜𝑚 𝑎𝑟𝑡𝑖𝑠𝑡. 𝐼 𝑗𝑢𝑠𝑡 𝑑𝑟𝑎𝑤 𝑎𝑛𝑦𝑡ℎ𝑖𝑛𝑔 𝐼 𝑙𝑖𝑘𝑒. 𝐼𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑒𝑑, 𝑚𝑜𝑟𝑒 𝑖𝑛𝑓𝑜 ℎ𝑒𝑟𝑒: 𝐜𝐨𝐦𝐢𝐧𝐠 𝐬𝐨𝐨𝐧...}}$
 </p>
 <p align="center">
-  <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/4.1.png?raw=true">
+  <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/4.1.png?raw=true"> 
 </p>
 
 </br>
@@ -59,6 +62,11 @@
 </br>
 </br>
 </br>
+<details> <summary> <sub><a </sub>${\textsf{\color{#3c5675} more info　}}$</a> </summary><br>
+         <sub> hi <br>
+
+
+
 
 <p align="center">
   <img src="https://www.image2url.com/r2/default/gifs/1785769602834-51dc135c-f3cb-4cde-b966-ebc56446e7a6.gif" />
