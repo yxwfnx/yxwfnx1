@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-      <details> <summary> <sub><a </sub>${\textsf{\color{#3c5675}  click me 4 more info }}$ ⠀⸺[ ⠀ <img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=1a222d&style=italic" alt="yxwfnx"/> ⠀]⸺ </a> </summary> 
+      <details> <summary> <sub><a </sub>${\textsf{\color{#3c5675}  click me 4 more info }}$ ⠀⸺[ ⠀<img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=1a222d&style=italic" alt="yxwfnx"/> ⠀]⸺ </a> </summary> 
          <sub> <br>
             hi <br>
 </p>
@@ -63,11 +63,6 @@
 </br>
 </br>
 </br>
-<details> <summary> <sub><a </sub>${\textsf{\color{#3c5675} more info　}}$</a> </summary><br>
-         <sub> hi <br>
-
-
-
 
 <p align="center">
   <img src="https://www.image2url.com/r2/default/gifs/1785769602834-51dc135c-f3cb-4cde-b966-ebc56446e7a6.gif" />
