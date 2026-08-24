@@ -29,7 +29,7 @@
 <p align="center">
       <details> <summary> <sub><a </sub>${\textsf{\color{#3c5675}  click me 4 more info }}$ ⠀⸺[ ⠀<img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=1a222d&style=italic" alt="yxwfnx"/> ⠀]⸺ </a> </summary> 
          <sub> <br>
-            hi <br>
+            hi ⠀⠀⠀idk what to write here yet :p <br>
 </p>
 <br>
 </details>
