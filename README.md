@@ -30,6 +30,9 @@
       <details> <summary> <sub><a </sub>${\textsf{\color{#3c5675}  click me 4 more info }}$ ⠀⸺[ ⠀<img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=1a222d&style=italic" alt="yxwfnx"/> ⠀]⸺ </a> </summary> 
          <sub> <br>
             hi ⠀⠀⠀idk what to write here yet :p <br>
+            <br>
+            my art that was here before:<br>
+            <img src="https://github.com/yxwfnx/yxwfnx/blob/main/zwe2.png?raw=true"> <br>
 </p>
 <br>
 </details>
