@@ -20,7 +20,7 @@ ignore it. It's in progress.
     <tr>
       <td>
          <p align="center">
-            ${\textsf{\color{#3c5675} ⠀⠀⠀⠀⠀hmmmmㅤ⠀𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞ㅤ⠀⠀新𝐛𝐨𝐨𝐤⠀⠀⠀⠀⠀}}$
+            ${\textsf{\color{#3c5675} ⠀⠀⠀⠀⠀hmmㅤ⠀𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞ㅤ⠀⠀新𝐛𝐨𝐨𝐤⠀⠀⠀⠀⠀}}$
          </p>
       </td>
     </tr>
