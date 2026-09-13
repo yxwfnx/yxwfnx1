@@ -11,7 +11,7 @@ ignore it. It's in progress.
  </br>
    ⸺[ <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png"> ${\textsf{\color{#3c5675} ] ⠀⠀ℍ𝕚.⠀⠀ [ }}$  <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png"> ]⸺ </br>
    ${\textsf{\color{#3c5675}𝑈𝑠𝑢𝑎𝑙𝑙𝑦 𝑜𝑓𝑓𝑡𝑎𝑏 𝑜𝑟 𝑎𝑓𝑘/𝑠𝑒𝑚𝑖-𝑎𝑓𝑘 𝑠𝑜 𝑤2𝑖.}}$ </br>
-   ${\textsf{\color{#3c5675}𝐷𝑁𝐶 𝑜𝑟 𝑖𝑛𝑠𝑝𝑜.  ⠀-𝟙𝟠 𝐼𝑊𝐶}}$</br>
+   ${\textsf{\color{#3c5675}𝐷𝑁𝐶 𝑜𝑟 𝑖𝑛𝑠𝑝𝑜(𝑢 𝑐𝑎𝑛 𝑎𝑠𝑘). ⠀-𝟙𝟠 𝐼𝑊𝐶}}$</br>
    ${\textsf{\color{#3c5675}I 𝑑𝑜𝑛'𝑡 𝑤𝑎𝑛𝑡 𝑎𝑛𝑦 𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠.}}$</br>
 </p>
 
