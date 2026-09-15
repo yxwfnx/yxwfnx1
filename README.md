@@ -20,7 +20,7 @@ ignore it. It's in progress.
     <tr>
       <td>
          <p align="center">
-             ⠀⠀⠀⠀</a><a href="https://linktr.ee/yxwfnx">𝐋𝐢𝐧𝐤𝐬 </a>⠀ㅤ⠀𝐒𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞ㅤ⠀⠀<a href="https://yxwfnx.atabook.org/">新𝐛𝐨𝐨𝐤 </a>⠀⠀⠀⠀⠀
+             ⠀⠀⠀⠀⠀</a><a href="https://linktr.ee/yxwfnx">𝐋𝐢𝐧𝐤𝐬</a>⠀⠀ㅤ⠀𝐒𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞ㅤ⠀⠀⠀<a href="https://yxwfnx.atabook.org/">新𝐛𝐨𝐨𝐤</a>⠀⠀⠀⠀
          </p>
       </td>
     </tr>
