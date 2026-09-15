@@ -30,9 +30,9 @@ ignore it. It's in progress.
 <p align="center">
       <details> <summary> <sub><a </sub>${\textsf{\color{#273083}  click me 4 more info }}$  ${\textsf{\color{#8091af}⸺[}}$ ⠀<img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=000000&style=italic" alt="yxwfnx"/> ⠀ ${\textsf{\color{#8091af}]⸺}}$  </a> </summary> 
          <sub> <br>
-            hi ⠀⠀⠀idk what to write here yet :p <br>
-            <br>
-            my art that was here before:<br>
+            <br> 
+            ${\textsf{\color{#273083}hi ⠀⠀⠀idk what to write here yet :p}}$ <br>
+            ${\textsf{\color{#2d3d89}my art that was here before:}}$ <br>
             <img src="https://github.com/yxwfnx/yxwfnx/blob/main/zwe2.png?raw=true"> <br>
 </p>
 <br>
