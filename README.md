@@ -9,7 +9,7 @@ ignore it. It's in progress.
 
 <p align="center">
  </br>
-  ${\textsf{\color{#727d9b} ⸺[ }}$ <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/bb.gif?raw=true"> ${\textsf{\color{#727d9b} ]}}$ ${\textsf{\color{#273083} ⠀⠀ℍ𝕚.⠀⠀ }}$ ${\textsf{\color{#727d9b}[ }}$  <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/bb2.gif?raw=true">  ${\textsf{\color{#727d9b}]⸺}}$ </br>
+  ${\textsf{\color{#8091af} ⸺[ }}$ <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/bb.gif?raw=true"> ${\textsf{\color{#727d9b} ]}}$ ${\textsf{\color{#273083} ⠀⠀ℍ𝕚.⠀⠀ }}$ ${\textsf{\color{#8091af}[ }}$  <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/bb2.gif?raw=true">  ${\textsf{\color{#8091af}]⸺}}$ </br>
    ${\textsf{\color{#273083}𝑈𝑠𝑢𝑎𝑙𝑙𝑦}}$ ${\textsf{\color{#2d3d89}𝑜𝑓𝑓𝑡𝑎𝑏}}$ ${\textsf{\color{#374b8d}𝑜𝑟}}$ ${\textsf{\color{#41558f}𝑎𝑓𝑘/}}$ ${\textsf{\color{#4a5e91}𝑠𝑒𝑚𝑖-𝑎𝑓𝑘 }}$ ${\textsf{\color{#566f95}𝑠𝑜}}$ ${\textsf{\color{#567195}𝑤2𝑖.}}$ </br>
    ${\textsf{\color{#273083}𝐷𝑁𝐶}}$ ${\textsf{\color{#2d3d89}𝑜𝑟}}$ ${\textsf{\color{#374b8d}𝑖𝑛𝑠𝑝𝑜}}$ ${\textsf{\color{#4a5e91}(𝑢 𝑐𝑎𝑛 𝑎𝑠𝑘).}}$ ${\textsf{\color{#567195} ⠀-𝟙𝟠 𝐼𝑊𝐶}}$ </br>
    ${\textsf{\color{#273083}I 𝑑𝑜𝑛'𝑡}}$ ${\textsf{\color{#2d3d89}𝑤𝑎𝑛𝑡}}$ ${\textsf{\color{#374b8d}𝑎𝑛𝑦}}$ ${\textsf{\color{#41558f}𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠.}}$</br>
@@ -28,7 +28,7 @@ ignore it. It's in progress.
 </p>
 
 <p align="center">
-      <details> <summary> <sub><a </sub>${\textsf{\color{#273083}  click me 4 more info }}$ ⠀⸺[ ⠀<img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=000000&style=italic" alt="yxwfnx"/> ⠀]⸺ </a> </summary> 
+      <details> <summary> <sub><a </sub>${\textsf{\color{#273083}  click me 4 more info }}$ ⠀ ${\textsf{\color{#8091af}⸺[}}$ ⠀<img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=000000&style=italic" alt="yxwfnx"/> ⠀ ${\textsf{\color{#8091af}]⸺}}$  </a> </summary> 
          <sub> <br>
             hi ⠀⠀⠀idk what to write here yet :p <br>
             <br>
