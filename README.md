@@ -45,6 +45,7 @@ ignore it. It's in progress.
   <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/4.1.png?raw=true"> 
 </p>
 
+<img src="https://hits.sh/github.com/yxwfnx.svg?style=flat-square&label=%E0%AC%B3&extraCount=1&color=000000&labelColor=000000"/></a>
 </br>
 </br>
 </br>
