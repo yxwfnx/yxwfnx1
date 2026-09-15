@@ -28,7 +28,7 @@ ignore it. It's in progress.
 </p>
 
 <p align="center">
-      <details> <summary> <sub><a </sub>${\textsf{\color{#273083}  click me 4 more info }}$  ${\textsf{\color{#8091af}⸺[}}$ ⠀<img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=000000&style=italic" alt="yxwfnx"/> ⠀ ${\textsf{\color{#8091af}]⸺}}$  </a> </summary> 
+      <details> <summary> <sub><a </sub>${\textsf{\color{#273083}  click me 4 more info }}$  ${\textsf{\color{#8091af}⸺[}}$ ⠀<a href="https://hits.sh/github.com/yxwfnx/"><img alt="Hits" src="https://hits.sh/github.com/yxwfnx.svg?style=flat-square&label=%E0%AC%B3&extraCount=1191&color=000000&labelColor=000000"/></a> ⠀ ${\textsf{\color{#8091af}]⸺}}$  </a> </summary> 
          <sub> <br>
             <br> 
             ${\textsf{\color{#273083}hi ⠀⠀⠀idk what to write here yet :p}}$ <br>
@@ -44,6 +44,8 @@ ignore it. It's in progress.
 <p align="center">
   <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/4.1.png?raw=true"> 
 </p>
+
+<a href="https://hits.sh/github.com/yxwfnx/"><img alt="Hits" src="https://hits.sh/github.com/yxwfnx.svg?style=flat-square&label=%E0%AC%B3&extraCount=1191&color=000000&labelColor=000000"/></a>
 
 <img src="https://hits.sh/github.com/yxwfnx.svg?style=flat-square&label=%E0%AC%B3&extraCount=1&color=000000&labelColor=000000"/></a>
 </br>
