@@ -9,10 +9,10 @@ ignore it. It's in progress.
 
 <p align="center">
  </br>
-  ${\textsf{\color{#727d9b} ⸺[ }}$ <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png"> ${\textsf{\color{#727d9b} ]}}$ ${\textsf{\color{#1a1d64} ⠀⠀ℍ𝕚.⠀⠀ }}$ ${\textsf{\color{#727d9b}[ }}$  <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png">  ${\textsf{\color{#727d9b}]⸺}}$ </br>
-   ${\textsf{\color{#1a1d64}𝑈𝑠𝑢𝑎𝑙𝑙𝑦 𝑜𝑓𝑓𝑡𝑎𝑏 𝑜𝑟 𝑎𝑓𝑘/𝑠𝑒𝑚𝑖-𝑎𝑓𝑘 𝑠𝑜 𝑤2𝑖.}}$ </br>
-   ${\textsf{\color{#3c5675}𝐷𝑁𝐶 𝑜𝑟 𝑖𝑛𝑠𝑝𝑜(𝑢 𝑐𝑎𝑛 𝑎𝑠𝑘). ⠀-𝟙𝟠 𝐼𝑊𝐶}}$</br>
-   ${\textsf{\color{#3c5675}I 𝑑𝑜𝑛'𝑡 𝑤𝑎𝑛𝑡 𝑎𝑛𝑦 𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠.}}$</br>
+  ${\textsf{\color{#727d9b} ⸺[ }}$ <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png"> ${\textsf{\color{#727d9b} ]}}$ ${\textsf{\color{#273083} ⠀⠀ℍ𝕚.⠀⠀ }}$ ${\textsf{\color{#727d9b}[ }}$  <img src="https://file.garden/ad7E6gx5M13uwG93/flowerrr.png">  ${\textsf{\color{#727d9b}]⸺}}$ </br>
+   ${\textsf{\color{#273083}𝑈𝑠𝑢𝑎𝑙𝑙𝑦}}$ ${\textsf{\color{#2d3d89}𝑜𝑓𝑓𝑡𝑎𝑏}}$ ${\textsf{\color{#374b8d}𝑜𝑟}}$ ${\textsf{\color{#41558f}𝑎𝑓𝑘/}}$ ${\textsf{\color{#4a5e91}𝑠𝑒𝑚𝑖-𝑎𝑓𝑘 }}$ ${\textsf{\color{#566f95}𝑠𝑜}}$ ${\textsf{\color{#567195}𝑤2𝑖.}}$ </br>
+   ${\textsf{\color{#273083}𝐷𝑁𝐶}}$ ${\textsf{\color{#2d3d89}𝑜𝑟}}$ ${\textsf{\color{#374b8d}𝑖𝑛𝑠𝑝𝑜}}$ ${\textsf{\color{#4a5e91}(𝑢 𝑐𝑎𝑛 𝑎𝑠𝑘).}}$ ${\textsf{\color{#567195} ⠀-𝟙𝟠 𝐼𝑊𝐶}}$ </br>
+   ${\textsf{\color{#273083}I 𝑑𝑜𝑛'𝑡}}$ ${\textsf{\color{#2d3d89}𝑤𝑎𝑛𝑡}}$ ${\textsf{\color{#374b8d}𝑎𝑛𝑦}}$ ${\textsf{\color{#41558f}𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠.}}$</br>
 </p>
 
  <p align="center">
