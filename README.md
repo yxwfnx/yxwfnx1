@@ -2,7 +2,6 @@ ignore it. It's in progress.
 <p align="center">
    <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/1.1.png?raw=true" />
 </p>
-<br>
    <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/2.png?raw=true" align="left">
     <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/33.png?raw=true" align="left">
       <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/3.1.png?raw=true" align="right">
