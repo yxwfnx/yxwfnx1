@@ -1,4 +1,4 @@
-ignore it. It's in progress.
+ignore it. Testing stuff.
 <p align="center">
    <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/1.1.png?raw=true" />
 </p>
@@ -43,10 +43,6 @@ ignore it. It's in progress.
 <p align="center">
   <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/4.1.png?raw=true"> 
 </p>
-
-<a href="https://hits.sh/github.com/yxwfnx/"><img alt="Hits" src="https://hits.sh/github.com/yxwfnx.svg?style=flat-square&label=%E0%AC%B3&extraCount=1191&color=000000&labelColor=000000"/></a>
-
-<img src="https://hits.sh/github.com/yxwfnx.svg?style=flat-square&label=%E0%AC%B3&extraCount=1&color=000000&labelColor=000000"/></a>
 </br>
 </br>
 </br>
