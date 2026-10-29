@@ -71,3 +71,43 @@ ignore it. Testing stuff.
 </br>
 </br>
 </br>
+
+<div align="center">
+   <!-- Aesthetic Music Display Layout -->
+   <p>
+    <b>Now Playing:</b> ...
+     <br>
+      <code>0:00 ─〇───────────────────────── 3:37</code>
+     <br>
+    <code> ⇄  ◃◃  ⅠⅠ  ▹▹  ↻ </code>
+  </p>
+</div>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+<table>
+
+  <tr>
+
+   <td width="150" align="center" valign="top">
+    <img width="2048" height="2048" alt="gh up" src="" />
+   </td>
+
+   <td valign="top">
+    <h3>asdsdfvsvd</h3>
+     <p>· sdfsfsfdsfsfsfsdfsfdxcdxfvsdfsf<br>
+
+   sfdsdfsfdsfsfsfsf<br>
+
+   sdfcsfsdfvxcdfzs<br>
+
+   sdefcsfvxvfsfs</p>
+    </td>
+
+  </tr>
+
+</table>
